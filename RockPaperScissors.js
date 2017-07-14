@@ -1,4 +1,4 @@
-var myChoice = ["R","S","P"];
+var myChoice = "R";
 
 var choices = ["R","P","S"];
 var playerChoice = choices[Math.floor(Math.random()*3)];
