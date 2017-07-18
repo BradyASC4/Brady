@@ -1,0 +1,1 @@
+var pokemonArray = [["Archeops", "Rock, Flying", 75, 65, 140, "False"],["Monferno", "Fire, Fighting", 64, 52, 78 "False],
