@@ -6,12 +6,10 @@ function setup(){
     ellipse(150,150,100,100);
     line(150, 150, 100, 150);
     line(150, 150, 199, 150);
-    fill(255,255,255);
-    arc(150, 150, 80, 80, 0, PI);
-    ellipseMode(CENTER);
+    ellipseMode(RADIUS);
     fill(255);
-    ellipse(150, 150, 35, 35);
-    ellipseMode(CENTER);
+    ellipse(150,150, 20, 20);
+    ellipseMode(CENTER)
     fill(0);
-    ellipse(150, 150, 18, 18);
+    ellipse(150,150, 20, 20);
 }
