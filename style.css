@@ -1,0 +1,25 @@
+body{
+    background-color: black; 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.timeline{
+    border: solid 4px white;
+    background-color:;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    color:white;
+}
+p{
+    width: 74%;
+    vertical-align: middle;
+    display: inline-block;
+}
+#top{
+    color: white
+}
